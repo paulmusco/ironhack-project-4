@@ -1,8 +1,8 @@
 # ironhack-project-4
 Statistical Analysis
 
-Step-by-step process
-- Import and clean data
+# Step-by-step process
+Import and clean data
 - Remove columns with high amount of null values
 - Look into columns with low variance		
 - Look into columns with very few unique values
@@ -38,7 +38,7 @@ Which variables are measured by square feet…..
 
 Perform multiple OLS linear regression on these variables
 
-Future improvements
+# Future improvements
 - Remove outliers prior to analysis
 - Look at number/type of rooms above basement
 - Look at year/month of sale (Time Series)
