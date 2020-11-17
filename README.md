@@ -38,6 +38,14 @@ Which variables are measured by square feet…..
 
 Perform multiple OLS linear regression on these variables
 
+# Results
+
+- The one single variable that had the biggest affect on 'SalePrice' was 'OverallQual' (R-squared value of 0.6275)
+- The neighbourhood modeal had an accuracy of 53.80%
+- The model using variables that measure square footage had an accuracy of 67.38%
+
+Therefore, based on the analysis carried out up to this point, the best model to select would be the one that uses variables measuring square foot as it has the highest accuracy score.
+
 # Future improvements
 - Remove outliers prior to analysis
 - Look at number/type of rooms above basement
